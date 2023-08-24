@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zepe0/Node/issues"
   },
-  "homepage": "https://github.com/zepe0/Node#readme"
+  "homepage": "https://github.com/zepe0/Node#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
 }
