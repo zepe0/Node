@@ -1,15 +1,20 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "RepasoNode",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "keywords": [
-    "node"
-  ],
-  "author": "zepe",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zepe0/Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zepe0/Node/issues"
+  },
+  "homepage": "https://github.com/zepe0/Node#readme"
 }
